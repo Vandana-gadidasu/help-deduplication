@@ -65,6 +65,7 @@ public class TestOurUnderstandingOfSet {
             }
         }
 
+        //
         @Test
         void withOneElementShouldHaveASizeOfOne() {
             Point origin = new Point(0, 0);
